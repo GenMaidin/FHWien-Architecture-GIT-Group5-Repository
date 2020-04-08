@@ -16,5 +16,9 @@ Line 12
 Line 13
 Line 14
 Line 15
+<<<<<<< HEAD
 
 Test - Alexander Gorgi
+
+Florian Grohmann Liebe Grueße
+>>>>>>> c4878a6e088157771997469654e704e15fde8470
