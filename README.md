@@ -17,6 +17,7 @@ Line 13
 Line 14
 Line 15
 <<<<<<< HEAD
+Somit haben wir die Aufgabe gelöst. Vielen Dank!
 
 
 neue Line LG Lukas E
