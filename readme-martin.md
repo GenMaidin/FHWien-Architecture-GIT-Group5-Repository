@@ -1,0 +1,1 @@
+Das ist eine Testdatei für die Aufgabe GIT.
