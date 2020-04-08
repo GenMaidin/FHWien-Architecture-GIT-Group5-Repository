@@ -24,7 +24,7 @@ neue Line LG Lukas E
 <<<<<<< HEAD
 
 Test - Alexander Gorgi - ebenfalls eine Anpassung von Lukas E
-
+Lukas Kirchsteiger ebenfalls liebe Grüße
 Florian Grohmann Liebe Grueße
 >>>>>>> c4878a6e088157771997469654e704e15fde8470
 >>>>>>> a11fa4f30051946f4527dc544c763f3bd36ebe35
